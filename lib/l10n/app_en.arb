@@ -1,0 +1,78 @@
+{
+  "welcome_title": "Spending tracker",
+  "welcome_caption": "Your spending history\nis always at hand",
+  "already_have_account": "Already have an account?",
+  "do_not_have_account": "Don't have an account yet?",
+  "email": "E-mail",
+  "password": "Password",
+  "enter_password": "Please enter password",
+  "must_contain_8_chars": "Must contain at least 8 characters",
+  "must_contain_1_digit": "Must contain at least one digit",
+  "must_contain_1_upper": "Must contain at least one upper case",
+  "must_contain_1_lower": "Must contain at least one lower case",
+  "enter_email": "Please enter e-mail",
+  "enter_valid_email": "Please enter correct e-mail",
+  "unknown_exception": "Unknown error",
+  "server_failure": "Server failure",
+  "weak_password": "The password provided is too weak",
+  "email_already_in_use": "The account already exists for that email",
+  "user_not_found": "No user found for that email",
+  "wrong_password": "Wrong password provided for that user",
+  "too_many_requests": "Too many requests. Try later",
+  "invalid_email": "Email is not valid or badly formatted",
+  "user_disabled": "This user has been disabled. Please contact support for help",
+  "signin": "Sign in",
+  "signup": "Sign up",
+  "logout": "Log out",
+  "spendings_tab": "Spendings",
+  "profile_tab": "Profile",
+  "no_spending_for": "No expenses for {month}",
+  "@no_spending_for": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      }
+    }
+  },
+  "add_category": "Add category",
+  "delete_category": "Delete category",
+  "delete_category_message": "Attention! Deleting a category will remove all spending from that category for all time.",
+  "add_spending": "Add spending",
+  "delete_spending": "Delete spending?",
+  "enter_amount": "Enter amount",
+  "name": "Name",
+  "color": "Color",
+  "add": "Add",
+  "save": "Save",
+  "delete": "Delete",
+  "confirm": "Confirm",
+  "select_date": "Select date",
+  "cancel": "Cancel",
+  "error": "Error",
+  "total": "Total",
+  "date": "Date",
+  "enter_name": "Please enter name",
+  "enter_date": "Please enter date",
+  "enter_number": "Please enter number",
+  "enter_color": "Please enter color",
+  "enter_valid_color": "Enter correct HEX color",
+  "enter_valid_date": "Enter correct date xx/xx/xx",
+  "short_month": "{month_num, select, month_1 {Jan} month_2 {Feb} month_3 {Mar} month_4 {Apr} month_5 {May} month_6 {Jun} month_7 {Jul} month_8 {Aug} month_9 {Sep} month_10 {Oct} month_11 {Nov} month_12 {Dec} other {month}}",
+  "@short_month": {
+    "description": "A short month",
+    "placeholders": {
+      "month_num": {
+        "type": "String"
+      }
+    }
+  },
+  "long_month": "{month_num, select, month_1 {January} month_2 {February} month_3 {March} month_4 {April} month_5 {May} month_6 {June} month_7 {July} month_8 {August} month_9 {September} month_10 {October} month_11 {November} month_12 {December} other {month}}",
+  "@long_month": {
+    "description": "A long month",
+    "placeholders": {
+      "month_num": {
+        "type": "String"
+      }
+    }
+  }
+}

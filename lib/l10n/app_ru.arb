@@ -1,0 +1,78 @@
+{
+  "welcome_title": "Учет расходов",
+  "welcome_caption": "Ваша история расходов\nвсегда под рукой",
+  "already_have_account": "Уже есть аккаунт?",
+  "do_not_have_account": "Ещё нет аккаунта?",
+  "email": "E-mail",
+  "password": "Пароль",
+  "enter_password": "Введите пароль",
+  "must_contain_8_chars": "Должен содержать минимум 8 символов",
+  "must_contain_1_digit": "Должен содержать минимум 1 цифру",
+  "must_contain_1_upper": "Должен содержать минимум 1 большую букву",
+  "must_contain_1_lower": "Должен содержать минимум 1 маленькую букву",
+  "enter_email": "Введите e-mail",
+  "enter_valid_email": "Введите корректный e-mail",
+  "unknown_exception": "Неизвестная ошибка",
+  "server_failure": "Ошибка сервера",
+  "weak_password": "Указанный пароль слишком простой",
+  "email_already_in_use": "Пользователь с таким e-mail уже зарегистрирован",
+  "user_not_found": "Пользователь не найден",
+  "wrong_password": "Неверный пароль",
+  "too_many_requests": "Слишком много запросов. Попробуйте позже.",
+  "invalid_email": "Email введен в неправильно формате",
+  "user_disabled": "Пользователь заблокирован. Обратитесь в техническую поддержку",
+  "signin": "Войти",
+  "signup": "Регистрация",
+  "logout": "Выйти",
+  "spendings_tab": "Расходы",
+  "profile_tab": "Профиль",
+  "no_spending_for": "За {month} нет расходов",
+  "@no_spending_for": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      }
+    }
+  },
+  "add_category": "Добавить категорию",
+  "delete_category": "Удалить категорию",
+  "delete_category_message": "Внимание! При удалении категории будут удалены все траты из этой категории за все время.",
+  "add_spending": "Добавить расход",
+  "delete_spending": "Удалить данные о расходе?",
+  "enter_amount": "Введите сумму",
+  "name": "Название",
+  "color": "Цвет",
+  "add": "Добавить",
+  "save": "Сохранить",
+  "delete": "Удалить",
+  "confirm": "Подтвердить",
+  "select_date": "Выберите дату",
+  "cancel": "Отмена",
+  "error": "Ошибка",
+  "total": "Всего",
+  "date": "Дата",
+  "enter_name": "Введите название",
+  "enter_date": "Введите дату",
+  "enter_number": "Введите число",
+  "enter_color": "Введите цвет",
+  "enter_valid_color": "Введите цвет в HEX формате",
+  "enter_valid_date": "Введите дату в формате xx/xx/xx",
+  "short_month": "{month_num, select, month_1 {янв} month_2 {фев} month_3 {мар} month_4 {апр} month_5 {май} month_6 {июн} month_7 {июл} month_8 {авг} month_9 {сен} month_10 {окт} month_11 {ноя} month_12 {дек} other {мес}}",
+  "@short_month": {
+    "description": "Сокращенная запись месяца",
+    "placeholders": {
+      "month_num": {
+        "type": "String"
+      }
+    }
+  },
+  "long_month": "{month_num, select, month_1 {Январь} month_2 {Февраль} month_3 {Март} month_4 {Апрель} month_5 {Май} month_6 {Июнь} month_7 {Июль} month_8 {Август} month_9 {Сентябрь} month_10 {Октябрь} month_11 {Ноябрь} month_12 {Декабрь} other {месяц}}",
+  "@long_month": {
+    "description": "Полная запись месяца",
+    "placeholders": {
+      "month_num": {
+        "type": "String"
+      }
+    }
+  }
+}

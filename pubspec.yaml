@@ -1,0 +1,57 @@
+name: diploma
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  module_business:
+    path: packages/module_business
+  module_data:
+    path: packages/module_data
+    
+  cupertino_icons: ^1.0.2
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  go_router: ^11.1.2
+  path_provider: ^2.1.0
+  dio: ^5.3.2
+  dartz: ^0.10.1
+  theme_extensions_builder_annotation: ^2.0.0
+  flutter_slidable: ^3.0.0
+  image_picker: ^1.0.2
+  email_validator: ^2.1.17
+  freezed: ^2.4.1
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  get_it: ^7.6.0
+  provider: ^6.0.5
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.3
+  fl_chart: ^0.63.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  bloc_test: ^9.1.4
+  mocktail: ^1.0.1
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  theme_extensions_builder: ^2.0.2
+  json_serializable: ^6.7.1
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
+

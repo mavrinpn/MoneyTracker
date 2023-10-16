@@ -4,6 +4,8 @@
 *.pyc
 *.swp
 .DS_Store
+.AppleDouble
+.LSOverride
 .atom/
 .buildlog/
 .history
@@ -42,3 +44,29 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Firebase
+firebase_options.dart
+google-services.json
+GoogleService-Info.plist
+Index.html
+firebase_app_id_file.json
