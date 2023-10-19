@@ -1,16 +1,17 @@
 # About
 
 This Flutter project demonstrates my skills in mobile development.
+This application is a Spending Tracking App.
+The app works on both iOS and Android platforms.
 
-## Getting Started
+## Project architecture
 
-This project is a starting point for a Flutter application.
+The application is built according to SOLID principles. The code is divided into packages: a Business Layer module and a Data Layer module.
 
-A few resources to get you started if this is your first Flutter project:
+## State Management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter BLoC](https://pub.dev/packages/flutter_bloc)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Navigation
+
+Go Router
