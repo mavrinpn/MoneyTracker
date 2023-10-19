@@ -1,3 +1,5 @@
+![MoneyTracker](https://github.com/mavrinpn/MoneyTracker/raw/main/screenshot_1.png)
+
 # About
 
 This Flutter project demonstrates my skills in mobile development.
