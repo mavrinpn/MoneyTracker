@@ -2,6 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:module_business/module_business.dart';
 
+//TODO: add freezed
+
 class SpendingModel extends SpendingEntity {
   final String owner;
 

@@ -1,6 +1,6 @@
-# diploma
+# About
 
-A new Flutter project.
+This Flutter project demonstrates my skills in mobile development.
 
 ## Getting Started
 

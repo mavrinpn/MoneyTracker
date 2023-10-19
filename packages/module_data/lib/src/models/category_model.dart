@@ -2,6 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:module_business/module_business.dart';
 import 'package:module_data/src/models/spending_model.dart';
 
+//TODO: add freezed
+
 class CategoryModel extends CategoryEntity {
   const CategoryModel({
     required id,
