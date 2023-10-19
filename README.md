@@ -10,6 +10,8 @@ My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/pavel-mavrin-developer/)
 
 The application is built according to SOLID principles. The code is divided into packages: a Business Layer module and a Data Layer module.
 
+- [Get it](https://pub.dev/packages/get_it)
+
 ## Tests
 
 - Unit Tests
