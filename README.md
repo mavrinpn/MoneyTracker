@@ -1,4 +1,4 @@
-![MoneyTracker](https://github.com/mavrinpn/MoneyTracker/raw/main/screenshot_1.png)
+![MoneyTracker](https://github.com/mavrinpn/MoneyTracker/raw/main/screenshot.png)
 
 # About
 
